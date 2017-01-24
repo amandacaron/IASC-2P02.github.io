@@ -1,37 +1,6 @@
-## Welcome to GitHub Pages
+# IASC 2P02
+## Amanda Caron
 
-You can use the [editor on GitHub](https://github.com/amandacaron/IASC-2P02.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis velit nec odio ornare aliquam. Donec convallis odio vitae leo lacinia pulvinar. Cras dictum, massa id laoreet tincidunt, nisl ante semper urna, vel varius sem metus sed lacus. Aenean iaculis quam et sem consequat, at interdum ante molestie. Maecenas sed felis id velit tempor pulvinar at nec nibh. In eget nunc mauris. Suspendisse sed malesuada ante, nec porta nulla. Nam pulvinar mollis varius. Fusce sed odio molestie neque tincidunt eleifend. Etiam eget luctus mi, ut laoreet augue. Cras commodo vel ante sit amet iaculis. Sed sollicitudin a justo et ultrices. Phasellus suscipit quam ut quam aliquet, et rhoncus augue aliquam.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/amandacaron/IASC-2P02.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Aliquam erat nibh, lobortis eget posuere tincidunt, gravida eu sem. Nam gravida at nisl ac semper. Cras tincidunt vehicula nunc, non laoreet ipsum vehicula vitae. Aenean nisi eros, pulvinar ac neque non, commodo blandit nulla. Sed nec malesuada turpis, non scelerisque arcu. Vestibulum accumsan commodo enim, at aliquet elit condimentum sit amet. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Etiam sed arcu ac massa vehicula finibus. Integer pharetra dui est, ut tincidunt velit laoreet quis. Aenean finibus id metus vitae vulputate.
