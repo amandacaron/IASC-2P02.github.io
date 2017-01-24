@@ -15,4 +15,4 @@ Aliquam erat nibh, lobortis eget posuere tincidunt, gravida eu sem. Nam gravida 
 
 ### Blog Post
 
-[continue reading](blog)
+[continue reading](blog.md)
