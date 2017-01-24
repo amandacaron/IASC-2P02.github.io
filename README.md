@@ -6,7 +6,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit. Etiam quis velit nec od
 
 
 
-![](images/ tech.jpg)
+![](images/tech.jpg)
 
 [Turn Table](http://www.urbanoutfitters.com/ca/en/catalog/category.jsp?id=A_MUSIC_TURNTABLE#/)
 
