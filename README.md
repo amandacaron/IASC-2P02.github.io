@@ -9,13 +9,13 @@ Hello there! My name is Amanda Caron. I am currently in the IASC program at Broc
 
 
 
-### Blog Post
+### Academic Blog
 
 [continue reading](blog.md)
 
-### Solo Presentation
+### Research Presentation
 [Slide Deck](reveal/index.html)
 
 
-### Collaboration
+### Collaboration Project
 [Presentation](Collaboration)
