@@ -28,7 +28,7 @@ With being given the chance to reconstruct my academic blog post I gained more t
 View [Digital Humanities in teh English Department... I Agree](blog.md)
      
      
-### Collaboration Project
+### Collaborative Project
 [Zotero](Collaboration)
 
 ### Research Presentation
