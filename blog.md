@@ -1,7 +1,7 @@
 
 
    <section> 
-					 <img src="https://img.buzzfeed.com/buzzfeed-static/static/enhanced/webdr06/2013/6/25/16/grid-cell-26296-1372190541-17.jpg"/>
+					 <img src="http://www.colorincolorado.org/sites/default/files/styles/resource_thumbnail/public/Assessment_1.jpg?itok=8r-0FY2g"/>
 				
 				</section>
             
