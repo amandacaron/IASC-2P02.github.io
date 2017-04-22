@@ -1,11 +1,11 @@
 
-
+ # Digital Humanities in English Departments... I agree
    <section> 
 					 <img src="http://www.colorincolorado.org/sites/default/files/styles/resource_thumbnail/public/Assessment_1.jpg?itok=8r-0FY2g"/>
 				
-				</section>
+				
             
-      # Digital Humanities in English Departments... I agree
+     
       
    Today I am choosing the article “What Is Digital Humanities and What’s It Doing in English Departments” written by Matthew Kirschenbaum to discuss and review. This article had me agreeing throughout the article with many of the points it brought forward. This article speaks about, “people who say the last battles of the computer revolution in English departments have been fought and won don’t know what they’re talking about,” and how, “we are just learning how to live with computers, just beginning to integrate these machines effectively into writing- and reading-intensive courses.” The idea of just beginning to integrate these systems effectively into reading and writing courses within the English department is what I agree with most throughout this article. Computers are becoming more depended on as the years go by. Although some schools are replacing certain teaching aspect such as learning cursive writing with new computer applications; computers have a lot more to offer for educational and new learning purposes. Computers can help students expand their knowledge and learn more then reading from a textbook in today’s day and age.
       
