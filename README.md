@@ -39,7 +39,7 @@ View [Digital Humanities in teh English Department... I Agree](blog.md)
 ### Academic Blog
 [Digital Humanities in teh English Department... I Agree](blog.md)
 
-
+</section>
 
 
 
