@@ -18,7 +18,8 @@ Hello there! My name is Amanda Caron. My major is Interactive Arts and Science a
 
   <section> 
   <img src="http://www.colorincolorado.org/sites/default/files/styles/resource_thumbnail/public/Assessment_1.jpg?itok=8r-0FY2g"/>
-				
+  </section>
+  
 # Abstract
 
 My featured project focuses on how the English Department can be evolved by the Digital Humanities. Digital Humanities are the future of many programs within the schooling system. It just takes certain people and or generations time to get used to the new concept. Many people are used to the traditional methods of teaching and learning. But without our control the world is evolving and so are learning and teaching methods. The world is forever developing and changing to keep up with new creations within the technology and digital humanities industry. What many peopled do not realize is that the Digital Humanities can improve our English Departments. Digital Humanities offer new materials to better the students and often the teachers teaching experience. Students will have access to library databases to help them read scholarly articles that would otherwise not be available to them. Allowing students to broaden their knowledge is an asset brought forward through the Digital Humanities. The main contribution brought forth from the Digital Humanities into English Departmetns is the immense amount of new tools. New learning tools, databases, definitions, and translators all in one place. The digital humanities are in every type on technology we use. As Kirschenbaum wrote,” digital humanities is implicit in every mission statement, every call for papers and proposals, every strategic plan and curriculum development document, every hiring request, and so forth that invokes the term.”
