@@ -1,4 +1,4 @@
-### Colaborative Project 
+### Collaborative Project 
 
 
   <section> 
