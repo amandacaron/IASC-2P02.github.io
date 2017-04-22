@@ -25,17 +25,17 @@ My featured project focuses on how the English Department can be evolved by the 
 
 With being given the chance to reconstruct my academic blog post I gained more time to reflect on the articles I chose and even gain new ideas. This allowed me to add new concepts to my initial blog post. In regards to what I changed after reading the instructors feedback I altered quite a bit. I firstly re-read Kirschenbaum article again and found new ideas to reference in my blog post. I saw that his numerous examples that he shared that seemed boring before were actually very intriguing the second time around. I honestly think I never gave them a chance at first and am glad I re-read the article. Next I took the new ideas I found and made a whole new paragraph in my post. After doing so I went and took out the portion where I go into my personal experience because it is not relevant to Kirschenbaum article. Then I tried to find any spelling or grammar errors I could to correct. Lastly, I chose one approach to focus on, “a more research-based mode that relies of quotes and scholarly argumentation” as you noted. I personally like working with many quotations to bring forward examples and support my opinions.  Overall my main agreement with Kirschenbaum stayed the same, I believe the digital humanities have brought forth countless tools that have helped and even revamped our English department today.  
 
-View [continue reading](blog.md)
+View [Digital Humanities in teh English Department... I Agree](blog.md)
      
      
 ### Collaboration Project
-[Presentation](Collaboration)
+[Zotero](Collaboration)
 
 ### Research Presentation
-[Slide Deck](reveal/index.html)
+[Walkman then to Now](reveal/index.html)
 
 ### Academic Blog
-[continue reading](blog.md)
+[Digital Humanities in teh English Department... I Agree](blog.md)
 
 
 
