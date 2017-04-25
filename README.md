@@ -32,7 +32,7 @@ View [Digital Humanities in teh English Department... I Agree](blog.md)
      
      
 ### Collaborative Project
-[Zotero](reveal/README.md)
+[Zotero](Collaboration.md)
 
 ### Research Presentation
 [Walkman then to Now](reveal/index.html)
