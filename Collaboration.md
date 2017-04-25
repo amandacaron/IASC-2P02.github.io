@@ -11,7 +11,7 @@
 
 <section> 
   <img src="http://www.alisonsinclair.ca/wp-content/uploads/2010/01/zotero_screenshot.png"/>
-  <section>
+  </section>
   
   # Collaboration Statement
   
